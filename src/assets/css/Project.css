@@ -1,0 +1,52 @@
+/* Project.css */
+.container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    transition: transform .3s ease;
+  }
+  
+  .thumb {
+    width: 200px;
+    height: 200px;
+    margin-right: 20px;
+    border-radius: 10px;
+    object-fit: cover;
+    border: 1px solid #000;
+    background-color: #1a212a !important;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .thumb:hover {
+    transform: scale(0.98);
+    box-shadow: 0 8px 16px rgba(0, 128, 0, 0.584), 0 4px 8px rgba(0, 128, 0, 0.1);
+  }
+  
+  .projectInfo {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; /* Align project name to the left */
+  }
+  
+  .project-name {
+    margin-bottom: 5px; /* Add spacing between project name and technologies */
+    text-align: left; /* Align project name to the left */
+  }
+  
+  .technologies {
+    display: flex;
+    align-items: center;
+    margin-top: 5px; /* Add spacing between project name and technologies */
+  }
+  
+  .technology {
+    display: flex;
+    align-items: center;
+    margin-right: 10px; /* Adjust the spacing between icons */
+  }
+  
+  .nonClickable {
+    pointer-events: none; /* Make project name and technology icons non-clickable */
+  }
+  

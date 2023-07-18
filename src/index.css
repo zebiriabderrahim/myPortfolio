@@ -1,0 +1,40 @@
+
+:root {
+  --main-color: #24292f;
+  --player-color: purple;
+  --active-color: darkgreen;
+  --color-selected: #58a6ff;
+  --text-color: #ffffff;
+  --sub-text-color: #8b949e;
+  --icon-container: #424243a8;
+  --selected-page: #96f68f;
+  --hover-playlist: #f2f2f2;
+}
+
+li {
+  list-style-type: none;
+}
+* {
+  box-sizing: border-box;
+ 
+}
+body {
+  background-color: var(--main-color);
+  color: var(--text-color);
+  font-family: 'Poppins', sans-serif;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+
+}
+@media screen and (max-width:500px){
+  section {
+    height: 160vh !important;
+    width:auto !important;
+  }
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

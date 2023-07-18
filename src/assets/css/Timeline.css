@@ -1,0 +1,77 @@
+#education {
+  color: var(--text-color);
+  font-family: 'Poppins', sans-serif;
+  height: 150vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+
+
+h3 {
+  padding-top: 0.25em;
+}
+
+.vertical-timeline::before {
+  width: 2px ;
+  background: var(--icon-container);
+}
+
+.vertical-timeline-element {
+  margin: 0;
+}
+
+.vertical-timeline-element-icon {
+  box-shadow: 0 0 0 5px var(--main-color), inset 0 2px 0 rgb(0 0 0 / 8%), 0 3px 0 4px rgb(0 0 0 / 5%);
+  top: 0;
+  left: 3.2px;
+  width: 30px;
+  height: 30px;
+}
+
+.vertical-timeline-element-content {
+  padding: 2em 2em;
+}
+
+.vertical-timeline-element-title {
+  text-align: left;
+  font-weight: 800;
+}
+
+.vertical-timeline-element-subtitle {
+  text-align: left;
+  color: var(--sub-text-color);
+
+}
+
+.vertical-timeline-element-date {
+  text-align: left;
+  color: var(--sub-text-color);
+
+}
+
+#description {
+  font-weight: 400;
+  text-align: left;
+}
+
+@media only screen and (min-width: 1170px) {
+  .vertical-timeline--two-columns .vertical-timeline-element-icon {
+    width: 30px;
+    height: 30px;
+    left: 51.17%;
+  }
+}
+.vertical-timeline-element-icon svg {
+  display: block;
+  width: 15px;
+  height: 15px;
+  position: relative;
+  color: black;
+  left: 65%;
+  top: 65%;
+  margin-left: -12px;
+  margin-top: -12px;
+}
