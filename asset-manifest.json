@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/myPortfolio/static/css/main.75c265d4.css",
+    "main.js": "/myPortfolio/static/js/main.679129bf.js",
+    "static/js/496.462e5448.chunk.js": "/myPortfolio/static/js/496.462e5448.chunk.js",
+    "static/media/clouddrop.svg": "/myPortfolio/static/media/clouddrop.0113bf08fc438c642b71db4c1cfffcdd.svg",
+    "static/media/banner-bg.png": "/myPortfolio/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/zork.svg": "/myPortfolio/static/media/zork.be8254252c56a465a326f9c056f61938.svg",
+    "static/media/7.svg": "/myPortfolio/static/media/7.008e1b8df67f11cecae89a69e7726fac.svg",
+    "static/media/nestjs.svg": "/myPortfolio/static/media/nestjs.b765064a370f3d0e271b5e6e24ad7f5f.svg",
+    "static/media/postgresql.svg": "/myPortfolio/static/media/postgresql.1d12e3c4fffbbb5df8f2.svg",
+    "static/media/jest.svg": "/myPortfolio/static/media/jest.d17d87dbd75b0bf1972c.svg",
+    "static/media/expressJs.svg": "/myPortfolio/static/media/expressJs.9a615d7ec350f97616f8.svg",
+    "static/media/assembler.svg": "/myPortfolio/static/media/assembler.27c3484cb7c03616be9c.svg",
+    "static/media/java.svg": "/myPortfolio/static/media/java.3bec9f7e5550e3cb9a0a22eaa03e58cb.svg",
+    "static/media/rxjs.svg": "/myPortfolio/static/media/rxjs.113acc23c85135c907a7bf5795930713.svg",
+    "static/media/microchip-1.svg": "/myPortfolio/static/media/microchip-1.85bd963a83fce59762f986b85ce35ec4.svg",
+    "static/media/react.svg": "/myPortfolio/static/media/react.b719e5c198350f13b6ef.svg",
+    "static/media/nodeJs.svg": "/myPortfolio/static/media/nodeJs.4c7d1903911881fefa858a710fae0331.svg",
+    "static/media/rocket.svg": "/myPortfolio/static/media/rocket.f27b72711a80b1a8c7e8d77277017293.svg",
+    "static/media/c++.svg": "/myPortfolio/static/media/c++.898f6ad43ab83d14d2f460d7e68a8a25.svg",
+    "static/media/vhdl.svg": "/myPortfolio/static/media/vhdl.6076dd4132fc06172e31.svg",
+    "static/media/python.svg": "/myPortfolio/static/media/python.0148bbde02f264b6964c.svg",
+    "static/media/school.svg": "/myPortfolio/static/media/school.60920a50e4f3bce8a4e2.svg",
+    "static/media/mongoDB.svg": "/myPortfolio/static/media/mongoDB.2de8865f2fed89e49dc2b645a70f7052.svg",
+    "static/media/typeScript.svg": "/myPortfolio/static/media/typeScript.137f16cbeae569ffc965.svg",
+    "static/media/angular-3.svg": "/myPortfolio/static/media/angular-3.92eaeea07759907933ff.svg",
+    "static/media/javaScript.svg": "/myPortfolio/static/media/javaScript.5fe8970023505f6ce447.svg",
+    "static/media/c.svg": "/myPortfolio/static/media/c.a006d6830d78f763c861703d1179e2a3.svg",
+    "index.html": "/myPortfolio/index.html",
+    "static/media/work.svg": "/myPortfolio/static/media/work.f4b6d08987ae2b497cea.svg",
+    "static/media/angular.svg": "/myPortfolio/static/media/angular.508151537081c6f916f8eb8d5212829b.svg",
+    "static/media/css.svg": "/myPortfolio/static/media/css.83d9783ddb6283ee654c.svg",
+    "static/media/html.svg": "/myPortfolio/static/media/html.d8e27b302ed1bcaee38b.svg",
+    "main.75c265d4.css.map": "/myPortfolio/static/css/main.75c265d4.css.map",
+    "main.679129bf.js.map": "/myPortfolio/static/js/main.679129bf.js.map",
+    "496.462e5448.chunk.js.map": "/myPortfolio/static/js/496.462e5448.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75c265d4.css",
+    "static/js/main.679129bf.js"
+  ]
+}
